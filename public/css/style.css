@@ -1,0 +1,13 @@
+body{
+    background-image: url("../imagens/mercadoBg.webp");
+    background-size:100%;
+}
+
+.navbar{
+    background-color: rgb(101, 162, 253);
+}
+
+img{
+    width: 180px;
+     height: 50px;
+}
